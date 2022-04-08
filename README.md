@@ -23,6 +23,7 @@ Web Application | December 2021 - April 2022
 - Social Media: 
   - Instagram - https://www.instagram.com/arttag_rit/
   - Facebook - https://www.facebook.com/ArtTag-RIT-101273502460458
+  - Demo: Coming soon!!
 
 ### Ranked-Choice Voting Application
 Web Application | October 2021
