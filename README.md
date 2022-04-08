@@ -2,7 +2,7 @@
 A UI/UX Developer aspiring to create exciting and effective user experiences.
 
 ## Work Experience
-###Changeling
+### Changeling
 Web Developer | May - August 2021
 - Worked with a team of seven web developers to create an interactive website for the Changeling VR game.
 - Responsible for redesigning and creating the landing page using Vue.js.
