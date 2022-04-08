@@ -7,6 +7,7 @@ Web Developer | May - August 2021
 - Worked with a team of seven web developers to create an interactive website for the Changeling VR game.
 - Responsible for redesigning and creating the landing page using Vue.js.
 - Worked on overall site maintenance and managed number of dependencies to help with the performance of the website.
+- Link: https://www.changelingvr.com/
 
 
 ## Projects
