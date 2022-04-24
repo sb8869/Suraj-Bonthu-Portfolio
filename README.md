@@ -53,4 +53,5 @@ Web Application | December 2021
 
 ## Resume
 - Link: https://people.rit.edu/sb8869/Suraj-Bonthu-Resume.pdf
-- Download: [Suraj-Bonthu-Resume.pdf](https://github.com/sb8869/Suraj-Bonthu-Portfolio/files/8429465/Suraj-Bonthu-Resume.pdf)
+- Download: [Suraj-Bonthu-Resume.pdf](https://github.com/sb8869/Suraj-Bonthu-Portfolio/files/8550260/Suraj-Bonthu-Resume.pdf)
+
