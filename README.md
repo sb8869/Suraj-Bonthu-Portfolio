@@ -64,7 +64,6 @@ Web Application | December 2021
 - Demo: https://people.rit.edu/sb8869/330/project3/
 
 ## Resume
-- Link: https://people.rit.edu/sb8869/Suraj-Bonthu-WebDev-Resume.pdf
-- Download: [Suraj_Bonthu_Resume_2024.pdf](https://github.com/user-attachments/files/19299123/Suraj_Bonthu_Resume_2024.pdf)
+- Download: [Suraj_Bonthu_Resume.pdf](https://github.com/user-attachments/files/20413722/Suraj_Bonthu_Resume.pdf)
 
 
