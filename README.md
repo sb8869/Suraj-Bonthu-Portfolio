@@ -26,7 +26,7 @@ Lead Researcher | January - May 2025
 
 ### Undergraduate Capstone Project - ArtTag
 Web Application | December 2021 - April 2022
-About: ArtTag is a drawing experience that allows you to post your drawings on walls in AR and see them alongside the drawings of other users. By allowing our users to contribute to their community through drawing, we're hoping to incentivize them to explore and discover the artistic expressions of the people around them.
+- About: ArtTag is a drawing experience that allows you to post your drawings on walls in AR and see them alongside the drawings of other users. By allowing our users to contribute to their community through drawing, we're hoping to incentivize them to explore and discover the artistic expressions of the people around them.
 - Collaborated with five designers and two developers to design and develop an interactive web application for mobile.
 - Acted as a back-end developer and was responsible for creating a moderation bot, setting up a database to store all data, and working on AR functionality.
 - Used Node.js and packages such as discord.js, mongoose, and mongoose-events to build the back-end of the application.
@@ -67,7 +67,7 @@ Web Application | December 2021
 Web Application | January - May 2025
 - Developed a travel website for Atlanta using Vanilla JavaScript, reusable PHP components, HTML/CSS
 - https://people.rit.edu/sb8869/iste646/project1/index.html
-- 
+
 ## Resume
 - Download: [Suraj_Bonthu_Resume.pdf](https://github.com/user-attachments/files/20413722/Suraj_Bonthu_Resume.pdf)
 
