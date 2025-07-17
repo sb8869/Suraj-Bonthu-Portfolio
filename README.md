@@ -19,12 +19,12 @@ Web Developer | May - August 2021
 
 ## Projects
 
-### Graduate Research
+### Graduate Capstone Research
 Lead Researcher | January - May 2025
 - Lead researcher on "Designing Thermal Feedback for Neck-Worn Haptic Devices.
 - Conducting usability research on thermal feedback in neck-worn haptic devices.
 
-### Capstone Project - ArtTag
+### Undergraduate Capstone Project - ArtTag
 Web Application | December 2021 - April 2022
 About: ArtTag is a drawing experience that allows you to post your drawings on walls in AR and see them alongside the drawings of other users. By allowing our users to contribute to their community through drawing, we're hoping to incentivize them to explore and discover the artistic expressions of the people around them.
 - Collaborated with five designers and two developers to design and develop an interactive web application for mobile.
@@ -63,6 +63,11 @@ Web Application | December 2021
 - Developed an asteroids game using vanilla javascript.
 - Demo: https://people.rit.edu/sb8869/330/project3/
 
+### Travel Guide Website
+Web Application | January - May 2025
+- Developed a travel website for Atlanta using Vanilla JavaScript, reusable PHP components, HTML/CSS
+- https://people.rit.edu/sb8869/iste646/project1/index.html
+- 
 ## Resume
 - Download: [Suraj_Bonthu_Resume.pdf](https://github.com/user-attachments/files/20413722/Suraj_Bonthu_Resume.pdf)
 
