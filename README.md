@@ -9,6 +9,7 @@ Software Engineer Intern | July - Dec 2022
 - Led front-end development for a new feature allowing users to add/edit service configurations.
 - Built and optimized React.js components to improve performance and user experience.
 - Increased code coverage to 80% by implementing tests using React Testing Library.
+  
 ### Changeling
 Web Developer | May - August 2021
 - Worked with a team of seven web developers to create an interactive website for the Changeling VR game.
@@ -36,6 +37,13 @@ Web Application | December 2021 - April 2022
   - Instagram - https://www.instagram.com/arttag_rit/
   - Facebook - https://www.facebook.com/ArtTag-RIT-101273502460458
   - Demo: https://youtu.be/fPXnCINi3rA
+ 
+### Stardew Valley Mod - Rejuvenating Forest
+Game Mod | December 2021
+- Developed and released a content-rich Stardew Valley mod featuring a custom questline, new explorable area, and original gameplay mechanics.
+- Implemented in C# using the Stardew Valley Modding API (SMAPI) with multiple modding frameworks to extend base game functionality.
+- Managed compatibility and dependency integration with other popular modding libraries (e.g., Content Patcher, JSON Assets).
+- Netted over 2900 downloads on NexusMods - https://www.nexusmods.com/stardewvalley/mods/10322
 
 ### Ranked-Choice Voting Application
 Web Application | October 2021
