@@ -25,6 +25,16 @@ Lead Researcher | January - May 2025
 - Lead researcher on "Designing Thermal Feedback for Neck-Worn Haptic Devices.
 - Conducting usability research on thermal feedback in neck-worn haptic devices.
 
+### Travel Guide Website
+Web Application | January - May 2025
+- Developed a travel website for Atlanta using Vanilla JavaScript, reusable PHP components, HTML/CSS
+- https://people.rit.edu/sb8869/iste646/project1/index.html
+
+### KeyRush - A minigame
+Web Application | June 2025
+- An interactive reflex game built with HTML/CSS/JS to simulate a timed minigame.
+- Features randomized input sequences, a dynamic timer bar, and multi-round progression.
+
 ### Undergraduate Capstone Project - ArtTag
 Web Application | December 2021 - April 2022
 - About: ArtTag is a drawing experience that allows you to post your drawings on walls in AR and see them alongside the drawings of other users. By allowing our users to contribute to their community through drawing, we're hoping to incentivize them to explore and discover the artistic expressions of the people around them.
@@ -70,11 +80,6 @@ Application | March 2022
 Web Application | December 2021
 - Developed an asteroids game using vanilla javascript.
 - Demo: https://people.rit.edu/sb8869/330/project3/
-
-### Travel Guide Website
-Web Application | January - May 2025
-- Developed a travel website for Atlanta using Vanilla JavaScript, reusable PHP components, HTML/CSS
-- https://people.rit.edu/sb8869/iste646/project1/index.html
 
 ## Resume
 - Download: [Suraj_Bonthu_Resume.pdf](https://github.com/user-attachments/files/20413722/Suraj_Bonthu_Resume.pdf)
