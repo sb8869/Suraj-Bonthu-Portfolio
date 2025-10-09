@@ -20,6 +20,19 @@ Web Developer | May - August 2021
 
 ## Projects
 
+###Car Dealership Manager
+Web Application | 2025 (In Development)
+- About: Car Dealership Manager is a browser-based management and negotiation simulation game where players act as used-car dealers — buying, appraising, negotiating, and selling vehicles to turn a profit. The goal is to blend realism and strategy through market dynamics, negotiation psychology, and player decision-making.
+- Designed and developed a fully interactive React-based web game simulating car dealership management.
+- Implemented buying and selling negotiation systems inspired by real-world dealership dynamics and FIFA’s transfer market.
+- Created a modular front-end architecture using React, TailwindCSS, and Lucide React icons for a clean, responsive UI.
+- Built procedural car generation logic to create dynamic and varied gameplay with realistic market balancing.
+- Developed a dialogue-style negotiation interface with seller patience, hidden reserve prices, and variable behaviors to keep each transaction unique.
+- Planned a scalable roadmap with player progression systems, dealership upgrades, and AI-driven market trends.
+- Designed phase-based development structure (Phase 1: Core mechanics, Phase 2: Personalities and events, Phase 3: Expansion systems).
+- Tech Stack: React, Vite, TailwindCSS, JavaScript (ES6), Lucide-React, Node.js
+- Repo: [github.com/sb8869/car-dealership-manager](https://github.com/sb8869/car-dealership-manager)
+
 ### Graduate Capstone Research
 Lead Researcher | January - May 2025
 - Lead researcher on "Designing Thermal Feedback for Neck-Worn Haptic Devices.
