@@ -20,7 +20,7 @@ Web Developer | May - August 2021
 
 ## Projects
 
-###Car Dealership Manager
+### Car Dealership Manager
 Web Application | 2025 (In Development)
 - About: Car Dealership Manager is a browser-based management and negotiation simulation game where players act as used-car dealers — buying, appraising, negotiating, and selling vehicles to turn a profit. The goal is to blend realism and strategy through market dynamics, negotiation psychology, and player decision-making.
 - Designed and developed a fully interactive React-based web game simulating car dealership management.
