@@ -20,6 +20,20 @@ Web Developer | May - August 2021
 
 ## Projects
 
+### Planorix - Computer Vision Floor Plan to 3D Converter
+Full-Stack Web Application | 2025 (In Development)
+- About: Planorix is an intelligent web application that transforms 2D floor plan images into interactive 3D models using computer vision and advanced image processing. Users can upload JPG or PDF floor plans and instantly visualize them as navigable 3D environments with intuitive camera controls for architectural visualization and space planning.
+- Designed and developed a full-stack application combining React frontend with FastAPI backend for seamless floor plan processing and 3D visualization.
+- Implemented advanced computer vision algorithms using OpenCV for wall detection, featuring thickness-based pattern recognition that achieves 80-90% accuracy in distinguishing structural elements from fixtures and text.
+- Built a sophisticated 3D rendering system with interactive canvas-based visualization, including orbit/pan/zoom camera controls anchored to the floor center for intuitive navigation.
+- Created an intelligent wall detection pipeline with dominant thickness analysis, two-tier filtering (lenient for thick walls, strict for thin walls), and automated line merging to optimize structural accuracy.
+- Developed a dual 3D generation system supporting both lightweight JSON models for web viewing and optional Blender GLB export for professional use cases.
+- Engineered a responsive file upload interface with drag-and-drop functionality, real-time progress tracking, and comprehensive error handling for various image formats.
+- Implemented an interactive 3D viewer with solid-color wall rendering, depth-based face sorting, and dynamic camera controls for optimal user experience.
+- Built modular backend architecture with separate image processing, model generation, and API layers, enabling easy scaling and feature expansion.
+- Tech Stack: React, FastAPI, OpenCV, NumPy, JavaScript (ES6), Python, Canvas API, Axios, HTML5 File API
+- Key Features: Computer vision wall detection, Interactive 3D visualization, Real-time image processing, Thickness-based pattern recognition, Drag-and-drop file upload, Camera orbit controls
+
 ### Car Dealership Manager
 Web Application | 2025 (In Development)
 - About: Car Dealership Manager is a browser-based management and negotiation simulation game where players act as used-car dealers — buying, appraising, negotiating, and selling vehicles to turn a profit. The goal is to blend realism and strategy through market dynamics, negotiation psychology, and player decision-making.
