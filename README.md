@@ -45,7 +45,6 @@ Web Application | 2025 (In Development)
 - Planned a scalable roadmap with player progression systems, dealership upgrades, and AI-driven market trends.
 - Designed phase-based development structure (Phase 1: Core mechanics, Phase 2: Personalities and events, Phase 3: Expansion systems).
 - Tech Stack: React, Vite, TailwindCSS, JavaScript (ES6), Lucide-React, Node.js
-- Repo: [github.com/sb8869/car-dealership-manager](https://github.com/sb8869/car-dealership-manager)
 
 ### Graduate Capstone Research
 Lead Researcher | January - May 2025
