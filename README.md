@@ -24,7 +24,7 @@ Web Developer | May - August 2021
 Full-Stack Web Application | 2025 (In Development)
 - About: Planorix is an intelligent web application that transforms 2D floor plan images into interactive 3D models using computer vision and advanced image processing. Users can upload JPG or PDF floor plans and instantly visualize them as navigable 3D environments with intuitive camera controls for architectural visualization and space planning.
 - Designed and developed a full-stack application combining React frontend with FastAPI backend for seamless floor plan processing and 3D visualization.
-- Implemented advanced computer vision algorithms using OpenCV for wall detection, featuring thickness-based pattern recognition that achieves 80-90% accuracy in distinguishing structural elements from fixtures and text.
+- Implemented advanced computer vision algorithms using OpenCV for wall detection, featuring thickness-based pattern recognition that achieves 60-70% accuracy in distinguishing structural elements from fixtures and text.
 - Built a sophisticated 3D rendering system with interactive canvas-based visualization, including orbit/pan/zoom camera controls anchored to the floor center for intuitive navigation.
 - Created an intelligent wall detection pipeline with dominant thickness analysis, two-tier filtering (lenient for thick walls, strict for thin walls), and automated line merging to optimize structural accuracy.
 - Developed a dual 3D generation system supporting both lightweight JSON models for web viewing and optional Blender GLB export for professional use cases.
@@ -36,15 +36,14 @@ Full-Stack Web Application | 2025 (In Development)
 
 ### Car Dealership Manager
 Web Application | 2025 (In Development)
-- About: Car Dealership Manager is a browser-based management and negotiation simulation game where players act as used-car dealers — buying, appraising, negotiating, and selling vehicles to turn a profit. The goal is to blend realism and strategy through market dynamics, negotiation psychology, and player decision-making.
-- Designed and developed a fully interactive React-based web game simulating car dealership management.
-- Implemented buying and selling negotiation systems inspired by real-world dealership dynamics and FIFA’s transfer market.
-- Created a modular front-end architecture using React, TailwindCSS, and Lucide React icons for a clean, responsive UI.
-- Built procedural car generation logic to create dynamic and varied gameplay with realistic market balancing.
-- Developed a dialogue-style negotiation interface with seller patience, hidden reserve prices, and variable behaviors to keep each transaction unique.
-- Planned a scalable roadmap with player progression systems, dealership upgrades, and AI-driven market trends.
-- Designed phase-based development structure (Phase 1: Core mechanics, Phase 2: Personalities and events, Phase 3: Expansion systems).
-- Tech Stack: React, Vite, TailwindCSS, JavaScript (ES6), Lucide-React, Node.js
+- About: Car Dealership Manager is an in-progress browser-based simulation that places players in the role of a used-car dealership owner. The project blends market economics, negotiation psychology, and progression systems to create strategic, replayable gameplay.
+- Core loop: buy, inspect, repair, list, negotiate, and sell. I implemented a procedural car generator and a robust 6-factor pricing engine (age, mileage, condition, rarity, demand/trend, randomness) so inventory feels varied and market-driven.
+- Appraisal & inspection: a 10-level "Expert Eye" skill tree provides progressively tighter resale/damage estimates; players can purchase rarity-scaled inspections for exact diagnostics, creating a risk-versus-certainty tradeoff.
+- Staff & facilities: full hiring and capacity systems (mechanics, salespeople, detailers, appraisers) and facility upgrades (workshop, showroom, office, security, technology) that influence repair throughput, listing capacity, negotiation outcomes, and appraisal accuracy.
+- Market systems: supply & demand dynamics, trending events, hot deals, and an interest-based sales timeline deliver realistic buyer behavior and strategic opportunities.
+- Selling flows: listings, auctions, negotiation modal with seller patience, hidden reserves, and counteroffer logic.
+- Product and engineering practices: modular React architecture, Tailwind-powered responsive UI, comprehensive gameplay documentation, and a phased roadmap for expansion (analytics, customer personalities, multiplayer hooks).
+- Tech Stack: React, Vite, TailwindCSS, JavaScript (ES6), Lucide-React, Node.js.
 
 ### Graduate Capstone Research
 Lead Researcher | January - May 2025
