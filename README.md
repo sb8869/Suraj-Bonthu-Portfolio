@@ -34,7 +34,7 @@ Full-Stack Web Application | 2025 (In Development)
 - Tech Stack: React, FastAPI, OpenCV, NumPy, JavaScript (ES6), Python, Canvas API, Axios, HTML5 File API
 - Key Features: Computer vision wall detection, Interactive 3D visualization, Real-time image processing, Thickness-based pattern recognition, Drag-and-drop file upload, Camera orbit controls
 
-### Car Dealership Manager
+### FlipPoint - Buy. Flip. Profit. Repeat.
 Web Application | 2025 (In Development)
 - About: Car Dealership Manager is an in-progress browser-based simulation that places players in the role of a used-car dealership owner. The project blends market economics, negotiation psychology, and progression systems to create strategic, replayable gameplay.
 - Core loop: buy, inspect, repair, list, negotiate, and sell. I implemented a procedural car generator and a robust 6-factor pricing engine (age, mileage, condition, rarity, demand/trend, randomness) so inventory feels varied and market-driven.
