@@ -21,7 +21,7 @@ Web Developer | May - August 2021
 ## Projects
 
 ### Planorix - Computer Vision Floor Plan to 3D Converter
-Full-Stack Web Application | 2025 (In Development)
+Full-Stack Web Application | 2025 
 - About: Planorix is an intelligent web application that transforms 2D floor plan images into interactive 3D models using computer vision and advanced image processing. Users can upload JPG or PDF floor plans and instantly visualize them as navigable 3D environments with intuitive camera controls for architectural visualization and space planning.
 - Designed and developed a full-stack application combining React frontend with FastAPI backend for seamless floor plan processing and 3D visualization.
 - Implemented advanced computer vision algorithms using OpenCV for wall detection, featuring thickness-based pattern recognition that achieves 60-70% accuracy in distinguishing structural elements from fixtures and text.
@@ -35,7 +35,7 @@ Full-Stack Web Application | 2025 (In Development)
 - Key Features: Computer vision wall detection, Interactive 3D visualization, Real-time image processing, Thickness-based pattern recognition, Drag-and-drop file upload, Camera orbit controls
 
 ### FlipPoint - Buy. Flip. Profit. Repeat.
-Web Application | 2025 (In Development)
+Web Application | 2025 
 - About: FlipPoint is an in-progress browser-based simulation that places players in the role of a used-car dealership owner. The project blends market economics, negotiation psychology, and progression systems to create strategic, replayable gameplay.
 - Core loop: buy, inspect, repair, list, negotiate, and sell. I implemented a procedural car generator and a robust 6-factor pricing engine (age, mileage, condition, rarity, demand/trend, randomness) so inventory feels varied and market-driven.
 - Appraisal & inspection: a 10-level "Expert Eye" skill tree provides progressively tighter resale/damage estimates; players can purchase rarity-scaled inspections for exact diagnostics, creating a risk-versus-certainty tradeoff.
@@ -43,7 +43,9 @@ Web Application | 2025 (In Development)
 - Market systems: supply & demand dynamics, trending events, hot deals, and an interest-based sales timeline deliver realistic buyer behavior and strategic opportunities.
 - Selling flows: listings, auctions, negotiation modal with seller patience, hidden reserves, and counteroffer logic.
 - Product and engineering practices: modular React architecture, Tailwind-powered responsive UI, comprehensive gameplay documentation, and a phased roadmap for expansion (analytics, customer personalities, multiplayer hooks).
-- Tech Stack: React, Vite, TailwindCSS, JavaScript (ES6), Lucide-React, Node.js.
+- Authentication and persistence: the app uses Supabase for signup, login, cloud save persistence, and the public leaderboard.
+- OAuth providers: players can also sign in using Google or Discord (OAuth) for convenience.
+- Tech Stack: React, Vite, TailwindCSS, JavaScript (ES6), Lucide-React, Node.js, Supabase, Vercel.
 - Try it now!: https://flippoint.vercel.app/
 
 ### Graduate Capstone Research
