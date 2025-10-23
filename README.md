@@ -36,7 +36,7 @@ Full-Stack Web Application | 2025 (In Development)
 
 ### FlipPoint - Buy. Flip. Profit. Repeat.
 Web Application | 2025 (In Development)
-- About: Car Dealership Manager is an in-progress browser-based simulation that places players in the role of a used-car dealership owner. The project blends market economics, negotiation psychology, and progression systems to create strategic, replayable gameplay.
+- About: FlipPoint is an in-progress browser-based simulation that places players in the role of a used-car dealership owner. The project blends market economics, negotiation psychology, and progression systems to create strategic, replayable gameplay.
 - Core loop: buy, inspect, repair, list, negotiate, and sell. I implemented a procedural car generator and a robust 6-factor pricing engine (age, mileage, condition, rarity, demand/trend, randomness) so inventory feels varied and market-driven.
 - Appraisal & inspection: a 10-level "Expert Eye" skill tree provides progressively tighter resale/damage estimates; players can purchase rarity-scaled inspections for exact diagnostics, creating a risk-versus-certainty tradeoff.
 - Staff & facilities: full hiring and capacity systems (mechanics, salespeople, detailers, appraisers) and facility upgrades (workshop, showroom, office, security, technology) that influence repair throughput, listing capacity, negotiation outcomes, and appraisal accuracy.
@@ -44,6 +44,7 @@ Web Application | 2025 (In Development)
 - Selling flows: listings, auctions, negotiation modal with seller patience, hidden reserves, and counteroffer logic.
 - Product and engineering practices: modular React architecture, Tailwind-powered responsive UI, comprehensive gameplay documentation, and a phased roadmap for expansion (analytics, customer personalities, multiplayer hooks).
 - Tech Stack: React, Vite, TailwindCSS, JavaScript (ES6), Lucide-React, Node.js.
+- Try it now!: https://flippoint.vercel.app/
 
 ### Graduate Capstone Research
 Lead Researcher | January - May 2025
