@@ -1,5 +1,5 @@
 # Welcome! I'm Suraj Bonthu. 
-A UI/UX Developer aspiring to create exciting and effective user experiences.
+A software engineer with a passion for building things people actually enjoy using — whether that's a slick React component, a computer vision pipeline, or an AR drawing experience. I've shipped production code at CarGurus, rebuilt landing pages for video games, and taken projects from zero to deployed across the full stack. My work spans web apps, game mods, and research — because I think the best engineers stay curious across domains. I'm at my best when craft meets complexity: turning hard problems into clean, interactive experiences.
 
 ## Work Experience
 
@@ -14,7 +14,7 @@ Software Engineer Intern | July - Dec 2022
 Web Developer | May - August 2021
 - Worked with a team of seven web developers to create an interactive website for the Changeling VR game.
 - Responsible for redesigning and creating the landing page using Vue.js.
-- Worked on overall site maintenance and managed a number of dependencies to help with the performance of the website.
+- Worked on overall site maintenance and managed several dependencies to help with the performance of the website.
 - Link: https://www.changelingvr.com/
 
 
@@ -110,7 +110,7 @@ Web Application | December 2021
 - Demo: https://people.rit.edu/sb8869/330/project3/
 
 ## Resume
-- Download: [Suraj-Bonthu-Resume.pdf](https://github.com/user-attachments/files/22973971/Suraj-Bonthu-Resume.pdf)
+- Download: [Suraj-Bonthu-Resume.pdf](https://github.com/user-attachments/files/26512929/Suraj-Bonthu-Resume.pdf)
 
 
 
