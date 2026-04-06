@@ -17,6 +17,10 @@ Web Developer | May - August 2021
 - Worked on overall site maintenance and managed several dependencies to help with the performance of the website.
 - Link: https://www.changelingvr.com/
 
+## Certifications
+
+### AWS Certified Solutions Architect - Associate
+https://www.credly.com/badges/fc8e1a8b-a230-42e1-ba8d-1d2b252e3b96/linked_in_profile
 
 ## Projects
 
