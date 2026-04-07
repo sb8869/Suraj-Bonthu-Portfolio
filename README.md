@@ -24,6 +24,22 @@ https://www.credly.com/badges/fc8e1a8b-a230-42e1-ba8d-1d2b252e3b96/linked_in_pro
 
 ## Projects
 
+### QA Agent - AI-Powered Automated Bug Detection
+Full-Stack Web Application | 2026 (🚧🚧🚧)
+
+- About: QA Agent is an adaptive AI testing tool that controls a real web browser, explores forms it has never seen before, generates its own test cases from what it actually observes on screen, and produces structured bug reports with screenshots. Unlike scripted tools like Selenium or Cypress, it reasons about the UI the way a human tester would — discovering unexpected behaviour rather than just verifying predetermined expectations.
+- Engineered a three-phase adaptive agent loop: an exploration phase where Claude Opus analyses a live screenshot and generates a bespoke test plan, an execution phase where the agent navigates, types, and clicks through real browser interactions, and an adaptive follow-up phase where the agent chases threads opened by bugs it already found.
+- Integrated Playwright for full browser automation including form filling, button clicks, keyboard input, and page navigation across any web application without app-specific configuration.
+- Implemented a vision-based UI reader that identifies actual DOM selectors, field labels, and interactive elements from screenshots — enabling the agent to test forms it has never encountered before without any hardcoded assumptions.
+- Designed a cost-optimised three-tier model routing system: Claude Opus for high-reasoning tasks (exploration, follow-up decisions), Claude Sonnet for step-by-step execution, and Claude Haiku for result classification — reducing per-run API cost by approximately 85% versus a single-model approach.
+- Built a text-history summarisation system that replaces screenshot re-transmission across agent steps, eliminating the largest source of token waste in multi-step vision agent loops.
+- Implemented JPEG screenshot compression at 55% quality via Pillow, reducing image token costs by ~70% with no meaningful loss in Claude's ability to read UI elements.
+- Developed a structured bug reporting pipeline that captures severity, reproduction steps, expected vs actual behaviour, and a timestamped screenshot of the exact failure state for every bug found.
+- Engineered real-time API cost tracking across all model calls, writing estimated spend per run directly into the final report so cost is always visible and auditable.
+- Built a companion web interface (Claude-powered) allowing users to test known apps by URL or upload a screenshot of any unknown form for instant AI-generated analysis, with expandable bug cards and one-click markdown export.
+- Tech Stack: Python, Playwright, Anthropic Claude API (Opus / Sonnet / Haiku), Pillow, Faker, python-dotenv, JavaScript, HTML/CSS
+- Key Features: Vision-based UI exploration, Adaptive test generation, Real browser control, Three-tier model cost routing, Screenshot-backed bug reports, Freeform scope input, Per-run cost tracking, Web companion interface
+
 ### Planorix - Computer Vision Floor Plan to 3D Converter
 Full-Stack Web Application | 2025 
 - About: Planorix is an intelligent web application that transforms 2D floor plan images into interactive 3D models using computer vision and advanced image processing. Users can upload JPG or PDF floor plans and instantly visualize them as navigable 3D environments with intuitive camera controls for architectural visualization and space planning.
