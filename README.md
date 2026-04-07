@@ -1,4 +1,6 @@
-# Welcome! I'm Suraj Bonthu. 
+# Welcome! I'm Suraj Bonthu.
+🌐 [Portfolio](https://surajbonthu.vercel.app/) | 📄 [Resume](https://github.com/user-attachments/files/26512929/Suraj-Bonthu-Resume.pdf) | 💼 [LinkedIn](https://www.linkedin.com/in/suraj-bonthu/)
+
 A software engineer with a passion for building things people actually enjoy using — whether that's a slick React component, a computer vision pipeline, or an AR drawing experience. I've shipped production code at CarGurus, rebuilt landing pages for video games, and taken projects from zero to deployed across the full stack. My work spans web apps, game mods, and research — because I think the best engineers stay curious across domains. I'm at my best when craft meets complexity: turning hard problems into clean, interactive experiences.
 
 ## Work Experience
@@ -128,9 +130,6 @@ Application | March 2022
 Web Application | December 2021
 - Developed an asteroids game using vanilla javascript.
 - Demo: https://people.rit.edu/sb8869/330/project3/
-
-## Resume
-- Download: [Suraj-Bonthu-Resume.pdf](https://github.com/user-attachments/files/26512929/Suraj-Bonthu-Resume.pdf)
 
 
 
