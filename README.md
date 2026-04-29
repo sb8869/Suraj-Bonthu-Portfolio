@@ -1,5 +1,6 @@
 # Welcome! I'm Suraj Bonthu.
-🌐 [Portfolio](https://surajbonthu.vercel.app/) | 📄 [Resume](https://github.com/user-attachments/files/26681600/SB_April2026.pdf) | 💼 [LinkedIn](https://www.linkedin.com/in/suraj-bonthu/)
+🌐 [Portfolio](https://surajbonthu.vercel.app/) | 📄 [Resume](https://github.com/user-attachments/files/27207390/Suraj_Bonthu_Resume.pdf)
+ | 💼 [LinkedIn](https://www.linkedin.com/in/suraj-bonthu/)
 
 A software engineer with a passion for building things people actually enjoy using — whether that's a slick React component, a computer vision pipeline, or an AR drawing experience. I've shipped production code at CarGurus, rebuilt landing pages for video games, and taken projects from zero to deployed across the full stack. My work spans web apps, game mods, and research — because I think the best engineers stay curious across domains. I'm at my best when craft meets complexity: turning hard problems into clean, interactive experiences.
 
