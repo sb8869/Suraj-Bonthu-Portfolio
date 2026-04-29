@@ -6,6 +6,12 @@ A software engineer with a passion for building things people actually enjoy usi
 
 ## Work Experience
 
+### SMT TechHub LLC
+Software Engineer Intern | Feb 2026
+- Engineered modular React components for a flagship CRM product, improving the reusability of the UI library and accelerating the front-end development cycle.
+- Developed dynamic dashboard features using JavaScript (ES6+), enabling real-time data visualization of customer interactions and sales pipelines.
+- Integrated RESTful APIs and third-party services into the React front-end to streamline lead management and external data.
+
 ### CarGurus
 Software Engineer Intern | July - Dec 2022
 - Developed Showroom, an internal tool used company-wide to manage service/job/system data.
