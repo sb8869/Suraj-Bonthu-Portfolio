@@ -34,9 +34,9 @@ https://www.credly.com/badges/fc8e1a8b-a230-42e1-ba8d-1d2b252e3b96/linked_in_pro
 ## Projects
 
 ### QA Agent - AI-Powered Automated Bug Detection
-Full-Stack Web Application | 2026 (🚧🚧🚧)
+Internal Tool / Company Initiative | SMT TechHub LLC | 2026 (In Progress) (🚧🚧🚧)
 
-- About: QA Agent is an adaptive AI testing tool that controls a real web browser, explores forms it has never seen before, generates its own test cases from what it actually observes on screen, and produces structured bug reports with screenshots. Unlike scripted tools like Selenium or Cypress, it reasons about the UI the way a human tester would — discovering unexpected behaviour rather than just verifying predetermined expectations.
+- About: QA Agent is an adaptive AI testing platform developed as an internal initiative at SMT TechHub. The system controls a real web browser, explores forms it has never seen before, generates its own test cases from what it actually observes on screen, and produces structured bug reports with screenshots. Unlike scripted tools like Selenium or Cypress, it reasons about the UI the way a human tester would — discovering unexpected behaviour rather than simply verifying predetermined expectations.
 - Engineered a three-phase adaptive agent loop: an exploration phase where Claude Opus analyses a live screenshot and generates a bespoke test plan, an execution phase where the agent navigates, types, and clicks through real browser interactions, and an adaptive follow-up phase where the agent chases threads opened by bugs it already found.
 - Integrated Playwright for full browser automation including form filling, button clicks, keyboard input, and page navigation across any web application without app-specific configuration.
 - Implemented a vision-based UI reader that identifies actual DOM selectors, field labels, and interactive elements from screenshots — enabling the agent to test forms it has never encountered before without any hardcoded assumptions.
