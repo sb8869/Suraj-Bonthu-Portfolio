@@ -33,6 +33,12 @@ https://www.credly.com/badges/fc8e1a8b-a230-42e1-ba8d-1d2b252e3b96/linked_in_pro
 
 ## Projects
 
+### FanBase - Your Teams. One Home.
+Full-Stack Sports Aggregation Platform (PWA) | 2026 (In Progress) (🚧🚧🚧)
+
+- About: FanBase is a personalized sports aggregation platform designed to unify the fragmented experience of following teams across multiple leagues. Instead of switching between league-specific apps, sports websites, and search engines, users can select their favorite teams and receive schedules, scores, standings, fixtures, news, and performance updates in a single mobile-first interface. The platform focuses on fandom-centric personalization — organizing sports content around the teams users actually care about rather than around leagues themselves.
+- COMING SOON!
+
 ### QA Agent - AI-Powered Automated Bug Detection
 Internal Tool / Company Initiative | SMT TechHub LLC | 2026 (In Progress) (🚧🚧🚧)
 
