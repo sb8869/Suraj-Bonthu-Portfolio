@@ -33,7 +33,7 @@ https://www.credly.com/badges/fc8e1a8b-a230-42e1-ba8d-1d2b252e3b96/linked_in_pro
 ## Projects
 
 ### FanBase - Your Teams. One Home.
-Full-Stack Sports Aggregation Platform | 2026 (In Progress) (🚧🚧🚧)
+Full-Stack Sports Aggregation Platform | June - July 2026
 - About: FanBase is a personalized sports dashboard that lets fans follow teams across MLB, NFL, NBA, and EPL and see everything that matters to them — live scores, schedules, standings, results, and news — in one feed, instead of digging through four different league sites and apps.
 - Today digest: the home view surfaces a fan's followed teams at a glance: live games, today's results with a running win/loss tally, what's up next, and yesterday's results — all computed from the user's followed-team list, not a generic scoreboard.
 - Live game detail: a deep-dive view per game with a scoreboard, sport-aware box score (MLB batting/pitching lines, NFL passing/rushing/receiving, NBA full stat table), a scoring-plays timeline, and a Match Stats comparison panel that pulls ESPN's team-level advanced stats (possession, shots, first downs, shooting splits) depending on the sport.
