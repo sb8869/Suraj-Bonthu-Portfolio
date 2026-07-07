@@ -33,14 +33,22 @@ https://www.credly.com/badges/fc8e1a8b-a230-42e1-ba8d-1d2b252e3b96/linked_in_pro
 ## Projects
 
 ### FanBase - Your Teams. One Home.
-Full-Stack Sports Aggregation Platform (PWA) | 2026 (In Progress) (🚧🚧🚧)
-
-- About: FanBase is a personalized sports aggregation platform designed to unify the fragmented experience of following teams across multiple leagues. Instead of switching between league-specific apps, sports websites, and search engines, users can select their favorite teams and receive schedules, scores, standings, fixtures, news, and performance updates in a single mobile-first interface. The platform focuses on fandom-centric personalization — organizing sports content around the teams users actually care about rather than around leagues themselves.
-- COMING SOON!
+Full-Stack Sports Aggregation Platform | 2026 (In Progress) (🚧🚧🚧)
+- About: FanBase is a personalized sports dashboard that lets fans follow teams across MLB, NFL, NBA, and EPL and see everything that matters to them — live scores, schedules, standings, results, and news — in one feed, instead of digging through four different league sites and apps.
+- Today digest: the home view surfaces a fan's followed teams at a glance: live games, today's results with a running win/loss tally, what's up next, and yesterday's results — all computed from the user's followed-team list, not a generic scoreboard.
+- Live game detail: a deep-dive view per game with a scoreboard, sport-aware box score (MLB batting/pitching lines, NFL passing/rushing/receiving, NBA full stat table), a scoring-plays timeline, and a Match Stats comparison panel that pulls ESPN's team-level advanced stats (possession, shots, first downs, shooting splits) depending on the sport.
+- Standings: division-level tables for followed teams with a one-click toggle to the full league table — NBA groups by conference rather than division, matching how most fans actually track it.
+- Schedule & results: a rolling 14-day fixture list grouped by day and league, plus a date-steppable results browser for any past day.
+- News: a per-league collapsible accordion feed pulling live headlines for only the leagues a user actually follows.
+- Onboarding & team management: new users pick their teams in an onboarding flow (searchable, filterable by league, with a save-and-continue gate); existing users can add/remove teams anytime from a dedicated "My Teams" screen.
+- Design system: underwent a full visual rebrand ("Broadcast Ignition") — a dark, broadcast-grade theme built on Anton/Archivo/IBM Plex Mono typography, an amber "my team" personalization signal kept independent from per-league accent colors, and live-game pulse/blink micro-animations.
+- Data source: all live sports data is pulled directly from ESPN's public site API in real time — no license fees, no stale cached datasets — normalized across four very different sports into one consistent internal team/game model.
+- Authentication and persistence: NextAuth (Auth.js) handles session management with Google OAuth and credentials (bcrypt-hashed password) sign-in; Postgres via Prisma stores followed teams and notification preferences.
+- Tech Stack: Next.js (App Router), React, TypeScript, Tailwind CSS, Radix UI, Zustand, SWR, Prisma, PostgreSQL (Neon serverless), NextAuth v5, Vercel.
+- Try it now!: https://fanbase-eosin.vercel.app/
 
 ### QA Agent - AI-Powered Automated Bug Detection
 Internal Tool / Company Initiative | SMT TechHub LLC | 2026 (In Progress) (🚧🚧🚧)
-
 - About: QA Agent is an adaptive AI testing platform developed as an internal initiative at SMT TechHub. The system controls a real web browser, explores forms it has never seen before, generates its own test cases from what it actually observes on screen, and produces structured bug reports with screenshots. Unlike scripted tools like Selenium or Cypress, it reasons about the UI the way a human tester would — discovering unexpected behaviour rather than simply verifying predetermined expectations.
 - Engineered a three-phase adaptive agent loop: an exploration phase where Claude Opus analyses a live screenshot and generates a bespoke test plan, an execution phase where the agent navigates, types, and clicks through real browser interactions, and an adaptive follow-up phase where the agent chases threads opened by bugs it already found.
 - Integrated Playwright for full browser automation including form filling, button clicks, keyboard input, and page navigation across any web application without app-specific configuration.
